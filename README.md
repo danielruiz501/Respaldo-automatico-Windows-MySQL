@@ -16,7 +16,7 @@ set RUTA_RESPALDO=C:\backups_mysql
 
 mkdir %RUTA_RESPALDO%
 
-"C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqldump.exe" -u root -pTU_PASSWORD larocadeguia > %RUTA_RESPALDO%\backup_%FECHA%_%HORA%.sql
+"C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqldump.exe" -u root -pTU_PASSWORD ecommerce > %RUTA_RESPALDO%\backup_%FECHA%_%HORA%.sql
 
 
 Reemplazar:
