@@ -1,4 +1,4 @@
-# Respaldo-automatico-Windows-MySQL
+# Backup-automatico-Windows-MySQL
 
 
 1. Crear el script de backups
